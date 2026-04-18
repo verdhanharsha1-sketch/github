@@ -1,0 +1,52 @@
+{
+  "title": "hello",
+  "thread_id": "a4c9426a-a533-45b9-b70f-616e4272ef57",
+  "exported_at": "2026-03-29T03:27:17.024Z",
+  "messages": [
+    {
+      "type": "human",
+      "id": "7c0e7920-4953-423c-a1cd-1815606b5b49",
+      "content": [
+        {
+          "type": "text",
+          "text": "hello"
+        }
+      ]
+    },
+    {
+      "type": "ai",
+      "id": "lc_run--019d379f-48a2-73a1-be47-f87c08b7d483",
+      "content": ""
+    },
+    {
+      "type": "human",
+      "id": "d399c428-f503-4299-b440-276aee069744",
+      "content": [
+        {
+          "type": "text",
+          "text": "Can you tell me a joke?"
+        }
+      ]
+    },
+    {
+      "type": "ai",
+      "id": "lc_run--019d379f-7251-7a12-a159-6e33c6f08817",
+      "content": ""
+    },
+    {
+      "type": "human",
+      "id": "eb6643f7-3e6e-40aa-bff9-aafbd9636e06",
+      "content": [
+        {
+          "type": "text",
+          "text": "Can you tell me a different joke?"
+        }
+      ]
+    },
+    {
+      "type": "ai",
+      "id": "lc_run--019d379f-a58a-7520-8f91-aaab0b0a618e",
+      "content": ""
+    }
+  ]
+}
